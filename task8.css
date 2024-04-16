@@ -1,0 +1,251 @@
+* {
+    margin: 0;
+    padding: 0;
+    /* background-color: rgb(33, 29, 29); */
+ }
+ 
+
+ ul li {
+    display: inline-block;
+ }
+
+ a {
+    text-decoration: none;
+    padding: 10px;
+    /* background-color: darkgoldenrod; */
+    /* display: inline-block; */
+    height: 50px;
+    width: 100px;
+    /* line-height: 50px; */
+    color: black;
+    background-color: darkgoldenrod;
+ }
+
+ ul {
+    background-color: darkgoldenrod;
+    height: 50px;
+    padding-top: 10px;
+    padding: 25px;
+    padding-left: 300px;
+
+ }
+ .main{
+    /* z-index: 1; */
+    position: relative;
+
+ }
+
+ .one {
+    padding-right: 190px;
+    font-family: cursive;
+    font-size: 30px;
+    padding-top: 1px;
+    background-color: darkgoldenrod;
+ }
+
+ .two {
+    height: 8px;
+    width: 100%;
+    background-color: rgb(129, 100, 28);
+    z-index: 1;
+    position: relative;
+
+ }
+
+ .three {
+    height: auto;
+    width: 310px;
+    background-color: rgb(235, 228, 228);
+    margin-left: 250px;
+    padding: 10px;
+    float: left;
+    border-radius: 5px;
+    z-index: 2;
+    position: relative;
+    top:-20px;
+ }
+
+ .four {
+    height: 220px;
+    width: 310px;
+    background-color: white;
+    padding: 10px;
+    margin-left: 1px;
+    float: left;
+    border-radius: 5px;
+    border: 4px solid rgb(235, 228, 228);
+    z-index: 2;
+    position: relative;
+    top:-20px;
+
+ }
+ 
+ 
+ .fa-arrow-left{
+    background-color: black;
+    color: white;
+    padding: 5px;
+    font-size: 12px;
+    margin-right: 50px;
+ }
+ 
+ .fa-arrow-right{
+    background-color: black;
+    color: white;
+    padding: 5px;
+    font-size: 12px;
+    margin-left: 50px;
+
+ }
+ .alphabet{
+    padding-top: 25px;
+    /* margin-left: auto; */
+    text-align: center;
+ }
+
+
+ .two-main img {
+    border-radius: 5px;
+    border: 5px solid white;
+ }
+
+ .four button {
+    background-color: darkgoldenrod;
+    padding: 10px;
+    color: black;
+    border-radius: 5px;
+
+ }
+
+ .five-main button {
+    background-color: darkgoldenrod;
+    padding: 5px 18px 5px 18px;
+    color: black;
+    border-radius: 5px;
+    margin-left: 10px;
+ }
+
+ .six {
+    height: 350px;
+    width: 330px;
+    background-color: black;
+    float: left;
+    margin-left: 250px;
+    color: white;
+    margin-top: 40px;
+    padding-bottom: 30px;
+    
+
+ }
+
+ .six img {
+    border-radius: 5px;
+    float: left;
+    margin-right: 10px;
+ }
+
+ .seven {
+    height: 350px;
+    width: 330px;
+    background-color: black;
+    float: left;
+    color: white;
+    margin-top: 40px;
+    padding-bottom: 30px;
+ }
+
+ .eight img {
+    margin-left: 245px;
+    display: inline-block;
+
+ }
+
+ .niti {
+    height: auto;
+    width: 250px;
+    display: inline-block;
+    padding-bottom: 10px;
+    color: white;
+    padding: 10px;
+
+ }
+
+ .yadav {
+    height: auto;
+    width: 250px;
+    display: inline-block;
+    color: white;
+    padding: 10px;
+
+
+ }
+
+ .niti-main {
+    margin-left: 180px;
+    padding-bottom: 40px;
+
+
+ }
+ .niti-main img{
+    border: 3px solid white;
+    border-radius: 5px;
+
+ }
+
+ .niti-main button {
+    background-color: darkgoldenrod;
+    border-radius: 5px;
+    padding: 5px 18px 5px 18px;
+    color: black;
+ }
+
+ .nine {
+    background-color: darkgoldenrod;
+    height: 400px;
+    width: 100%;
+   
+ }
+ 
+ .ten{
+ 
+    background-color: darkgoldenrod;
+    height: 350px;
+    width: 100%;
+   
+ }
+ .eleven {
+    height: auto;
+    width: 180px;
+    display: inline-block;
+    color: white;
+    
+
+ }
+ 
+
+
+          
+ 
+ .ele-main{
+    margin-left: 450px;
+    /* padding-top: -100px; */
+ }
+
+ .ten-main p{
+  padding-left: 100px;
+ }
+ .ten-main button{
+    background-color: darkgoldenrod;
+    padding: 3px 15px 3px 15px;
+  margin-left: 100px;
+    
+ }
+ .last{
+    height: 8px;
+    width: 100%;
+    background-color: rgb(129, 100, 28);
+ }
+ .four .anchor{
+    background-color: gray;
+    color: white;
+ }
